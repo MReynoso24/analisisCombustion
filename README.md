@@ -1,6 +1,6 @@
 # Simulador de combustion y generacion de CO en ambientes cerrados
 
-Simulacion en Python de la combustion de un artefacto a gas (GLP o GN)
+Simulacion en Python 3.13 de la combustion de un artefacto a gas (GLP o GN)
 dentro de una habitacion, para estimar la evolucion en el tiempo de la
 concentracion de CO (ppm) y O2 (%) en el ambiente.
 
